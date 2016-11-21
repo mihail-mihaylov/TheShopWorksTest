@@ -16,7 +16,7 @@ Route::resource('schedule', '\App\Modules\Schedules\Http\Controllers\ScheduleCon
 
 // Initial route
 Route::get('/', function () {
-    return view('welcome');
+    return redirect()->route('schedule.index');
 });
 
 
