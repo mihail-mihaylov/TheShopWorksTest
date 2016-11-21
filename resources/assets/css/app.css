@@ -1,0 +1,7 @@
+table tbody tr > td.working_day {
+  background-color: #1AB394;
+}
+
+table tbody tr > td.off_day {
+  background-color: #c93c74;
+}

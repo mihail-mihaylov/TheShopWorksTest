@@ -1,0 +1,1 @@
+{"version":3,"sources":["schedule.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","file":"schedule.js","sourcesContent":["/**\n * Schedule custom js\n */\n\n$( document ).ready(function() {\n\tvar table = $('#schedule_table').dataTable();\n});"]}

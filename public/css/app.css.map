@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","file":"app.css","sourcesContent":["table tbody tr > td.working_day {\n  background-color: #1AB394;\n}\n\ntable tbody tr > td.off_day {\n  background-color: #c93c74;\n}"]}
